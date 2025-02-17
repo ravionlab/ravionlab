@@ -16,7 +16,7 @@ AI-driven projects that solve meaningful challenges
 Robotics systems that blend hardware and software innovations
 Open-source initiatives to make advanced technologies accessible
 📫 How to reach me:
-Feel free to connect with me on LinkedIn or drop me an email at ravionlab@gmail.com!
+Feel free to connect with me on LinkedIn or drop me an email at ravionlab.tech@gmail.com!
 
 ⚡ Fun fact:
 Ravion Lab was born out of a passion for merging cutting-edge technology with creativity and collaboration. Let's shape the future of tech together! 🚀
